@@ -1,0 +1,10 @@
+h1{color: blue;font-family: sans-serif;}
+h2{background-color: grey;text-transform: uppercase;}
+body {text-indent: 2em}
+p{text-align: center;}
+li{line-height: 200%}
+article {float: left;width: 30%}
+p {float: left;}
+a:hover {text-decoration: none;color: green;}
+table {border: 3px dashed; }
+table {font-family: sans-serif;}
